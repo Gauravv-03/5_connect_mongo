@@ -1,0 +1,11 @@
+{
+  "name": "5_connect_mongo",
+  "version": "1.0.0",
+  "description": "mongodb connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gaurvv",
+  "license": "ISC"
+}
